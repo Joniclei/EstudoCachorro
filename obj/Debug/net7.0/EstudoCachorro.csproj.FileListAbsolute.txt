@@ -1,0 +1,15 @@
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/bin/Debug/net7.0/EstudoCachorro
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/bin/Debug/net7.0/EstudoCachorro.deps.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/bin/Debug/net7.0/EstudoCachorro.runtimeconfig.json
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/bin/Debug/net7.0/EstudoCachorro.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/bin/Debug/net7.0/EstudoCachorro.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/obj/Debug/net7.0/EstudoCachorro.csproj.AssemblyReference.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/obj/Debug/net7.0/EstudoCachorro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/obj/Debug/net7.0/EstudoCachorro.AssemblyInfoInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/obj/Debug/net7.0/EstudoCachorro.AssemblyInfo.cs
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/obj/Debug/net7.0/EstudoCachorro.csproj.CoreCompileInputs.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/obj/Debug/net7.0/EstudoCachorro.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/obj/Debug/net7.0/refint/EstudoCachorro.dll
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/obj/Debug/net7.0/EstudoCachorro.pdb
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/obj/Debug/net7.0/EstudoCachorro.genruntimeconfig.cache
+/Users/Admin/Desktop/Git/EstudoGit/JS/EstudoCachorro/obj/Debug/net7.0/ref/EstudoCachorro.dll
