@@ -55,6 +55,10 @@ namespace CatioroM
 
     }
 
+    public static void DelCachorrinho(int del){
+      CatioroRe.CachorroRe.RemoveCachorro(del);
+    }
+
 
     public override string ToString()
     {
@@ -72,5 +76,6 @@ namespace CatioroM
 
       return sb.ToString();
     }
+
   }
 }

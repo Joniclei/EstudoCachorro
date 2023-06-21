@@ -48,5 +48,13 @@ namespace CatioroV
       CatioroC.CachorroC.UpCachorroC(raca,nome,idade,indice);
 
     }
+
+    public static void DelCachorro(){
+      int del;
+      Console.Write("Digite o indice que deseja excluir:");
+      del = Convert.ToInt32(Console.ReadLine());
+      CatioroC.CachorroC.DelCachorro(del);
+    }
+
   }
 }

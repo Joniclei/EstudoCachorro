@@ -30,6 +30,7 @@ namespace catioro
           break;
         }
         case 4:{
+          CatioroV.CachorroV.DelCachorro();
           break;
         }
       }

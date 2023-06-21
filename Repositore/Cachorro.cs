@@ -25,5 +25,10 @@ namespace CatioroRe
       cachor [indice] = cachoor;
     }
 
+    public static void RemoveCachorro(int indice)
+    {
+      cachor.RemoveAt(indice);
+    }
+
   }
 }

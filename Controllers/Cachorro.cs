@@ -24,5 +24,10 @@ namespace CatioroC
 
     }
 
+    public static void DelCachorro(int del)
+    {
+      CatioroM.CachorroM.DelCachorrinho(del);
+    }
+
   }
 }
