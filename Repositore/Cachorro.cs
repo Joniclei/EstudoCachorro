@@ -16,5 +16,14 @@ namespace CatioroRe
       return cachor;
     }
 
+    public static CachorroM UpCachorroR(int indice)
+    {
+      return cachor[indice];
+    }
+    public static void UpCachorroRe(int indice,CachorroM cachoor)
+    {
+      cachor [indice] = cachoor;
+    }
+
   }
 }

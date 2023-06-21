@@ -10,11 +10,11 @@ namespace CatioroV
     {
       string raca,nome;
       int idade;
-      Console.WriteLine("Informe o raca: ");
+      Console.Write("Informe o raca: ");
       raca = Console.ReadLine();
-      Console.WriteLine("Informe o nome: ");
+      Console.Write("Informe o nome: ");
       nome = Console.ReadLine();
-      Console.WriteLine("Informe a idade: ");
+      Console.Write("Informe a idade: ");
       idade = Convert.ToInt32(Console.ReadLine());
 
       CatioroC.CachorroC.AddCachorroM(raca,nome,idade);
@@ -31,7 +31,21 @@ namespace CatioroV
         Console.WriteLine(au);
         Console.WriteLine();
       }
+    }
 
+    public static void UpCachorro(){
+      string raca,nome;
+      int idade,indice;
+
+      Console.Write("Informe o raca: ");
+      raca = Console.ReadLine();
+      Console.Write("Informe o nome: ");
+      nome = Console.ReadLine();
+      Console.Write("Informe a idade: ");
+      idade = Convert.ToInt32(Console.ReadLine());
+      Console.Write("Digite o valor do indice que deseja alterar:");
+      indice = Convert.ToInt32(Console.ReadLine());
+      CatioroC.CachorroC.UpCachorroC(raca,nome,idade,indice);
 
     }
   }

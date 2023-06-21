@@ -25,7 +25,8 @@ namespace catioro
           break;
         }
         case 3:{
-          
+          CatioroV.CachorroV.UpCachorro();
+
           break;
         }
         case 4:{

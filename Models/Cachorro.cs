@@ -1,5 +1,6 @@
 using System;
 using System.Text;
+using CatioroRe;
 
 namespace CatioroM
 {
@@ -38,8 +39,25 @@ namespace CatioroM
 
     }
 
+    public static CachorroM CachorUp(int indice)
+    {
+      return CatioroRe.CachorroRe.UpCachorroR(indice);
 
-    public override string ToString(){
+    }
+    public static void  CachorroUp(string raca,string nome,int idade,int indice)
+    {
+      CachorroM cachor = CachorroM.CachorUp(indice);
+      cachor.Raca = raca;
+      cachor.Nome=nome;
+      cachor.Idade = idade;
+
+      CatioroRe.CachorroRe.UpCachorroRe(indice,cachor);
+
+    }
+
+
+    public override string ToString()
+    {
 
       StringBuilder sb = new StringBuilder();
       sb.Append("Raca:");

@@ -19,6 +19,10 @@ namespace CatioroC
       return CatioroM.CachorroM.ListCachorro();
     }
 
+    public static void UpCachorroC(string raca,string nome,int idade,int indice){
+      CatioroM.CachorroM.CachorroUp(raca,nome,idade,indice);
+
+    }
 
   }
 }
